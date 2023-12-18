@@ -1,0 +1,4 @@
+pandas
+streamlit==1.14.0
+streamlit-option-menu==0.3.2
+Pillow==9.0.1
