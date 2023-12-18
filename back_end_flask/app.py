@@ -8,7 +8,8 @@ firebase_admin.initialize_app(cred, {"databaseURL": "https://yogaadmission-d92d1
 
 # Create Flask app
 app = Flask(__name__)
-CORS(app, resources={r"/add_data": {"origins": "http://localhost:8501"}})  # Allow requests from the Streamlit app
+# CORS(app, resources={r"/add_data": {"origins": "http://localhost:8501"}})  
+CORS(app, resources={r"/add_data": {"origins": "https://yogaadmissionsystem11-raxcxtb9op3mhrbrexqgwi.streamlit.app"}}) # Allow requests from the Streamlit app
 """CORS stands for Cross-Origin Resource Sharing. It is a security feature implemented by web browsers to restrict web pages from making requests to a different domain than the one that served the web page"""
 
 
