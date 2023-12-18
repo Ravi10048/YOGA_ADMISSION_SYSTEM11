@@ -30,7 +30,7 @@ if (selected == 'Admission Form'):
     col1, col2, col3 = st.columns([1, 1, 1])
     st.title('Yoga Classes Admission Form')
 
-    image1=Image.open("yoga1.png")
+    image1=Image.open("front_end/yoga1.png")
     image1=image1.resize((150,200))
     # st.image(image1)
     col2.image(image1)
