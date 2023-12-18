@@ -30,13 +30,13 @@ if (selected == 'Admission Form'):
     col1, col2, col3 = st.columns([1, 1, 1])
     st.title('Yoga Classes Admission Form')
 
-    image1=Image.open("D:/python/solar secure/flexi/yoga1.png")
+    image1=Image.open("yoga1.png")
     image1=image1.resize((150,200))
     # st.image(image1)
     col2.image(image1)
 
     def send_data_to_flask(participant_data):
-        flask_api_url = "http://localhost:5000/add_data"
+        flask_api_url = "https://yoga-admission-form11.onrender.com/add_data"
         try:
             response = requests.post(flask_api_url, json=participant_data)
             response_json = response.json()  # Try to parse the response as JSON
@@ -58,7 +58,7 @@ if (selected == 'Admission Form'):
 
     def fetch_previous_details(name):
         try:
-            response = requests.get("http://localhost:5000/get_data")
+            response = requests.get("https://yoga-admission-form11.onrender.com/get_data")
             # Check if the response is successful (status code 200)
             if response.status_code == 200:
                 data,part,b1,b2,b3,b4,jan,feb,march,april,may,jun,july,aug,sep,oct,nov,dec = response.json()
@@ -115,7 +115,7 @@ if (selected == 'Admission Form'):
             time.sleep(1)  # You can adjust the delay as needed
                 
             try:
-                data,part,b1,b2,b3,b4,jan,feb,march,april,may,jun,july,aug,sep,oct,nov,dec= requests.get("http://localhost:5000/get_data").json()
+                data,part,b1,b2,b3,b4,jan,feb,march,april,may,jun,july,aug,sep,oct,nov,dec= requests.get("https://yoga-admission-form11.onrender.com/get_data").json()
                 # print("output data:", data)
                     
                 # Display each entry individually
@@ -131,7 +131,7 @@ if (selected == 'Admission Form'):
     yoga_admission_form()
 elif (selected == 'Records'):
     try:
-        whole,part,b1,b2,b3,b4,jan,feb,march,april,may,jun,july,aug,sep,oct,nov,dec = requests.get("http://localhost:5000/get_data").json()   
+        whole,part,b1,b2,b3,b4,jan,feb,march,april,may,jun,july,aug,sep,oct,nov,dec = requests.get("https://yoga-admission-form11.onrender.com/get_data").json()   
         # Display each entry individually
         st.subheader("Yoga Classes Table:")
         # Convert the dictionary to a Pandas DataFrame
