@@ -1,4 +1,7 @@
 
+
+![yoga1](https://github.com/Ravi10048/YOGA_ADMISSION_SYSTEM11/assets/116975230/910683ba-628e-4b4a-9545-a18e4244db1c)
+
 # Yoga Admission System
 
 ## Overview
@@ -141,7 +144,19 @@ Backend server link - https://yoga-admission-form11.onrender.com
 ## Contributing
 Contributions are welcome! If you find any issues or have improvements, feel free to create a pull request.
 
-##Screenshots
+## Screenshots
 
 ![s1](https://github.com/Ravi10048/YOGA_ADMISSION_SYSTEM11/assets/116975230/629b63ad-7e24-4661-988a-4e613ae4a58f)
+
+![s2](https://github.com/Ravi10048/YOGA_ADMISSION_SYSTEM11/assets/116975230/a704443e-6128-4b57-84e1-ffd73531564c)
+
+
+
+![s3](https://github.com/Ravi10048/YOGA_ADMISSION_SYSTEM11/assets/116975230/78add70d-4c9a-44a5-92ff-d34a40ab6331)
+
+
+
+![s4](https://github.com/Ravi10048/YOGA_ADMISSION_SYSTEM11/assets/116975230/207f3441-7d22-4d7d-bfb5-daf3f02f593d)
+
+
 
