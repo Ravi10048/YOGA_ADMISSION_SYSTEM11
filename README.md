@@ -139,4 +139,9 @@ Backend server link - https://yoga-admission-form11.onrender.com
 - `/get_data`: Get yoga class data (GET request)
 
 ## Contributing
-![s1](https://github.com/Ravi10048/YOGA_ADMISSION_SYSTEM11/assets/116975230/4addf7be-5cb2-412a-8448-ea24fbcf4bc1
+Contributions are welcome! If you find any issues or have improvements, feel free to create a pull request.
+
+##Screenshots
+
+![s1](https://github.com/Ravi10048/YOGA_ADMISSION_SYSTEM11/assets/116975230/629b63ad-7e24-4661-988a-4e613ae4a58f)
+
