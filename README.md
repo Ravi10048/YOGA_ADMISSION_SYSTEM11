@@ -1,7 +1,4 @@
 
-
-![yoga1](https://github.com/Ravi10048/YOGA_ADMISSION_SYSTEM11/assets/116975230/910683ba-628e-4b4a-9545-a18e4244db1c)
-
 # Yoga Admission System
 
 ## Overview
@@ -89,6 +86,14 @@ Backend server link - https://yoga-admission-form11.onrender.com
 - **Admission Form:** Fill out a form to enroll in yoga classes.
 - **Records:** View records for yoga classes, participants, and monthly data.
 
+## Screenshot  Admission Form
+
+![s1](https://github.com/Ravi10048/YOGA_ADMISSION_SYSTEM11/assets/116975230/629b63ad-7e24-4661-988a-4e613ae4a58f)
+
+## Screenshot  Participants enrolled in Classes
+
+![s1](https://github.com/Ravi10048/YOGA_ADMISSION_SYSTEM11/assets/116975230/629b63ad-7e24-4661-988a-4e613ae4a58f)
+
 ## Terms and Condition regarding Enrollement
 - **Age Limit:** Participants must be within the age range of 18 to 65 years to enroll for the monthly yoga classes.
 
@@ -144,17 +149,11 @@ Backend server link - https://yoga-admission-form11.onrender.com
 ## Contributing
 Contributions are welcome! If you find any issues or have improvements, feel free to create a pull request.
 
-## Screenshots
-
-![s1](https://github.com/Ravi10048/YOGA_ADMISSION_SYSTEM11/assets/116975230/629b63ad-7e24-4661-988a-4e613ae4a58f)
-
-![s2](https://github.com/Ravi10048/YOGA_ADMISSION_SYSTEM11/assets/116975230/a704443e-6128-4b57-84e1-ffd73531564c)
-
-
+## Screenshots Yoga Class Table and Participant Table
 
 ![s3](https://github.com/Ravi10048/YOGA_ADMISSION_SYSTEM11/assets/116975230/78add70d-4c9a-44a5-92ff-d34a40ab6331)
 
-
+## Screenshots Batch wise Table 
 
 ![s4](https://github.com/Ravi10048/YOGA_ADMISSION_SYSTEM11/assets/116975230/207f3441-7d22-4d7d-bfb5-daf3f02f593d)
 
