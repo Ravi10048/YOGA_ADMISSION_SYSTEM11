@@ -15,11 +15,11 @@ Backend server link - https://yoga-admission-form11.onrender.com
 
 ## Screenshot  Admission Form
 
-![s1](https://github.com/Ravi10048/YOGA_ADMISSION_SYSTEM11/assets/116975230/629b63ad-7e24-4661-988a-4e613ae4a58f)
+![s11](https://github.com/Ravi10048/YOGA_ADMISSION_SYSTEM11/assets/116975230/927b1e5a-6286-40a3-95de-4afc6ee47747)
 
 ## Screenshot  Participants enrolled in Classes
 
-![s1](https://github.com/Ravi10048/YOGA_ADMISSION_SYSTEM11/assets/116975230/629b63ad-7e24-4661-988a-4e613ae4a58f)
+![s2](https://github.com/Ravi10048/YOGA_ADMISSION_SYSTEM11/assets/116975230/1f8bbee0-a72c-41ff-b6ea-a2cb87a33345)
 
 
 ## Terms and Condition regarding Enrollement
